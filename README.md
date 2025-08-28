@@ -11,10 +11,11 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SpringSpring" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Spigot%20%2F%20PaperMC-informational?style=for-the-badge" alt="Spigot/PaperMC" />
+  <img src="https://img.shields.io/badge/Spigot%20%2F%20PaperMC-informational?style=for-the-badge&logo=spigotmc&logoColor=whitewhite" alt="Spigot/PaperMC" />
   <img src="https://img.shields.io/badge/BungeeCord-%23007ACC.svg?style=for-the-badge" alt="BungeeCord" />
-  <img src="https://img.shields.io/badge/Velocity-%23999999.svg?style=for-the-badge" alt="Velocity" />
+  <img src="https://img.shields.io/badge/Velocity-%23999999.svg?style=for-the-badge&logo=velocity" alt="Velocity" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
